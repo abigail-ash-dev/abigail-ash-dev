@@ -1,4 +1,4 @@
-## Hello, I'm Abigail 👋
+## Hi there, I'm Abigail 👋
 
 - 🎓 Currently studying MSc Software Engineering (on an interruption of study)
 - ☕ Former Operations Manager at a Speciality Coffee Shop, now transitioning into Software Engineering & IT support
