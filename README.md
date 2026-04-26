@@ -6,4 +6,4 @@
 
 - ⚡ Fun fact: I have a background in Astrophysics, specialising in Dark Matter Halos around Galaxies.
 
-- 🔭 Working on: A public portfolio of Python scripts and IT support tools from my MSc and personal projects.
+- 🔭 Working on: A public portfolio of Python scripts and IT support tools from my academia and personal projects.
