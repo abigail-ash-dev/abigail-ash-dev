@@ -8,5 +8,3 @@
 - ⚡ Fun fact: I have a background in Astrophysics
 
 - 🔭 Working on: A public portfolio of Python scripts and IT support tools from my MSc and personal projects.
-
-- 📫 How to reach me: https://www.linkedin.com/in/abigail-ash-software/
